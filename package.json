@@ -1,0 +1,24 @@
+{
+  "name": "tz-convrter-sergim1423",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/tz-convrter-sergim1423.git"
+  },
+  "author": "Sergi Manolov <sergi.m.1423@gmail.com> (https://github.com/sergim1423)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/tz-convrter-sergim1423/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/tz-convrter-sergim1423#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.38",
+    "yargs": "^17.6.0"
+  }
+}
